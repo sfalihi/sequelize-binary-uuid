@@ -1,5 +1,5 @@
 {
-  "name": "sequelize-binary-uuid",
+  "name": "@sinaf/sequelize-binary-uuid",
   "version": "1.0.0",
   "description": "Makes it easy to implement binary(16) uuid's into Sequelize projects.",
   "main": "dist/index.js",
@@ -12,7 +12,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/odo-network/sequelize-binary-uuid/"
+    "url": "https://github.com/sfalihi/sequelize-binary-uuid/"
   },
   "keywords": [
     "binary",
