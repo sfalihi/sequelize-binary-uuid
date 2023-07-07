@@ -48,9 +48,6 @@
     "rimraf": "^2.6.2",
     "sequelize": "^4.42.0"
   },
-  "peerDependencies": {
-    "sequelize": "^4.42.0"
-  },
   "dependencies": {
     "binary-uuid": "^1.2.0"
   }
